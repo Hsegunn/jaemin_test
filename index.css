@@ -1,0 +1,11 @@
+#idstyle{
+	color: violet; //text 색상바꾸기
+}
+
+.classstyle{
+	font-size: 20px;
+}
+
+#boxstyle{
+		background-color: gray; 
+}
